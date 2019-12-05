@@ -25,7 +25,7 @@ SECRET_KEY = 'h$91=z5048_@q^%kl67@ti!!740hye_=wy9bezkm2u28k3!8a6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['oboyl.pythonanywhere.com']
 
 
 # Application definition
